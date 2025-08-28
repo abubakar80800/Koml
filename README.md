@@ -1,4 +1,4 @@
-# Koml
+#snake01F
 var Snake = (function () {
 
   const INITIAL_TAIL = 5;
